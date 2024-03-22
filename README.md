@@ -14,10 +14,8 @@
  
  🌱  Estou aprendendo **Node.js, Express, React, JavaScript, Tailwind CSS**
 
-💬 Pergunte-me sobre **desenvolvimento web, tecnologias front-end e back-end**... ou qualquer coisa aqui.<!--  [here](https://github.com/salesp07/salesp07/issues),
- -->
+💬 Pergunte-me sobre **desenvolvimento web, tecnologias front-end e back-end**... ou qualquer coisa aqui.
 
- <br>
 ⚡  Curiosidade: Minha série favorita atual é **Shōgun**
 
  </div>
