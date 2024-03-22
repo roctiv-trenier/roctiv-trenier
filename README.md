@@ -14,8 +14,10 @@
  
  🌱  Estou aprendendo **Node.js, Express, React, JavaScript, Tailwind CSS**
 
-💬 Pergunte-me sobre **desenvolvimento web, tecnologias front-end e back-end**... ou qualquer coisa aqui.<!--  [here](https://github.com/salesp07/salesp07/issues)
+💬 Pergunte-me sobre **desenvolvimento web, tecnologias front-end e back-end**... ou qualquer coisa aqui.<!--  [here](https://github.com/salesp07/salesp07/issues),
  -->
+
+ <br>
 ⚡  Curiosidade: Minha série favorita atual é **Shōgun**
 
  </div>
@@ -38,7 +40,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,html,css,javascript,react,nodeJS,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs." /><br>
 </div>
 
 <br/>
